@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @non-linear.
-- 👀 I’m interested in Haskell, physics, and mathematics.
-- 🌱 I’m currently learning all kinds of things related to my topics of interest.
-- 💞️ I’m happy to collaborate on Haskell projects. 
+- 👀 I’m interested in Rust, Haskell, physics, and mathematics.
+- 🌱 I’m currently learning working towards creating simulations with Rust.
+- 💞️ I’m happy to collaborate on Haskell and Rust projects. 
 - 📫 How to reach me: github@non-linear.net
 
 <!---
