@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @non-linear.
-- 👀 I’m interested in C, Haskell, physics, and mathematics.
-- 🌱 I’m currently working on creating libraries for making C programming easier. 
-- 💞️ I’d love to learn more about creating web apps without using Javascript frameworks.
+- 👀 I’m interested in Rust, Haskell, physics, and mathematics.
+- 🌱 I’m currently improving my Rust and my Haskell.
+- 💞️ I’d love to learn more about the advantages of using WASM with Rust.
 - 📫 How to reach me: github@non-linear.net
 
 <!---
